@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CodeLine\\Desktop\\Full-Stack .Net\\Library-Management-System---DB-Project-Part2\\Library-Management-System---DB-Project-Part2\\SELECT Queries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738805B1-3FBC-484A-BCAD-0891EBBBD21C}|SELECT Queries.csproj|c:\\users\\codeline\\desktop\\full-stack .net\\library-management-system---db-project-part2\\library-management-system---db-project-part2\\select queries\\selectqueries.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{738805B1-3FBC-484A-BCAD-0891EBBBD21C}|SELECT Queries.csproj|solutionrelative:selectqueries.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738805B1-3FBC-484A-BCAD-0891EBBBD21C}|SELECT Queries.csproj|c:\\users\\codeline\\desktop\\full-stack .net\\library-management-system---db-project-part2\\library-management-system---db-project-part2\\select queries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738805B1-3FBC-484A-BCAD-0891EBBBD21C}|SELECT Queries.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectQueries.md",
+              "DocumentMoniker": "C:\\Users\\CodeLine\\Desktop\\Full-Stack .Net\\Library-Management-System---DB-Project-Part2\\Library-Management-System---DB-Project-Part2\\SELECT Queries\\SelectQueries.md",
+              "RelativeDocumentMoniker": "SelectQueries.md",
+              "ToolTip": "C:\\Users\\CodeLine\\Desktop\\Full-Stack .Net\\Library-Management-System---DB-Project-Part2\\Library-Management-System---DB-Project-Part2\\SELECT Queries\\SelectQueries.md",
+              "RelativeToolTip": "SelectQueries.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-01T06:40:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CodeLine\\Desktop\\Full-Stack .Net\\Library-Management-System---DB-Project-Part2\\Library-Management-System---DB-Project-Part2\\SELECT Queries\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CodeLine\\Desktop\\Full-Stack .Net\\Library-Management-System---DB-Project-Part2\\Library-Management-System---DB-Project-Part2\\SELECT Queries\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:39:19.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
